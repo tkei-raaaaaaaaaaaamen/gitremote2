@@ -1,3 +1,3 @@
 
-def hallo():
+def hello():
    print("こんにちは")
